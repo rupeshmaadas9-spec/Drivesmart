@@ -12,6 +12,7 @@ Python · Pandas · NumPy · Selenium · BeautifulSoup · Scikit-learn · XGBoos
 (Future: FastAPI · Streamlit · Airflow)
 
 🏗️ Project Phases
+
 🔹 Phase 1: Web Scraping & Data Collection
 
 Automated data extraction from Kayak using Selenium and BeautifulSoup across multiple locations and date ranges.

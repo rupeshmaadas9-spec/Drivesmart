@@ -1,6 +1,6 @@
 🚗 DriveSmart: Rental Car Price Prediction System
 
-An end-to-end data analytics and machine learning project designed to collect, analyze, and predict rental car prices using real-world data.
+DriveSmart is an end-to-end data science project that scrapes car rental prices from Kayak, analyzes pricing patterns, and builds machine learning models to predict daily rental rates. The goal is to help consumers identify good deals and give rental companies pricing insights.
 
 📌 Project Overview
 

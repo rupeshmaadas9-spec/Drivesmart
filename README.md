@@ -19,10 +19,13 @@ Project Phases
 
 Phase 1: Web Scraping & Data Collection
 Automated data extraction from Kayak using Selenium and BeautifulSoup across multiple locations and date ranges. Outputs structured datasets for downstream analysis.
+
 Phase 2: Exploratory Data Analysis (EDA)
 Data cleaning, preprocessing, and feature engineering to uncover pricing patterns, trends, and booking behaviors.
+
 Phase 3: Machine Learning Modeling
 Development and evaluation of regression models to predict rental prices, with XGBoost selected as the best-performing model.
+
 Phase 4: Deployment (Planned)
 Design of a production-ready system including API-based model serving, user interface for predictions, and automated data pipelines.
 
